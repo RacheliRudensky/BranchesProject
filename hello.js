@@ -1,3 +1,3 @@
-const a = ()=>{
-    alert("Hi!!")
+const b = ()=>{
+    alert("Cool!!")
 }
